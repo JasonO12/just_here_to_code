@@ -9,3 +9,4 @@ flask_migrate
 MarkupSafe
 flask_sqlalchemy
 Werkzeug
+flask-login
